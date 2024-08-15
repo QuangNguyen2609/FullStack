@@ -1,0 +1,4 @@
+fastapi
+magnum
+requests
+google-generativeai
